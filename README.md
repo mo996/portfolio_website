@@ -5,6 +5,7 @@ using SCSS and a little Javascript
 <br />
 
 #Desktop
+<br />
 ![This is an image](test1.gif)
 -----------------------------------------
 #Mobile
